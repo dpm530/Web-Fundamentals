@@ -1,0 +1,77 @@
+/*CSS reset settings here*/
+*{
+ margin: 5px;
+ padding: 5px;
+}
+.container{
+ width: 1180px;
+ background-color: #1b355b;
+ margin: auto;
+
+}
+.header{
+ height: 70px,0,70px,0;
+ background-color: #d32d39;
+ padding:2px;
+ border-radius:10px;
+ font-size: 40px;
+
+}
+.navigation{
+ height: 570px;
+ width: 200px;
+ background-color: #1e7d8b;
+ display: inline-block;
+ padding: 50px,50px,50px,50px;
+ border-radius:15px;
+ float:left;
+
+}
+.main_content{
+ height: 700px;
+ width: 900px;
+ background-color:#0e1821;
+ display: inline-block;
+ margin:3px;
+ border-radius: 15px;
+ font-size: 11px;
+ padding: 20px,10px,20px,10px;
+
+
+}
+.footer{
+ height: 60px;
+ background-color: #5d6672;
+ display:block;
+ border-radius: 15px;
+}
+
+.navigation a{
+  padding-bottom: 0;
+  margin: 0;
+  border: black;
+  font-size: 20px;
+  color: #5bdae2;
+}
+
+.main_content span{
+  color:#6376f0;
+}
+
+.header h1{
+  color:#c1d6ea;
+}
+
+.main_content h2,p,ul{
+  color:#c1d6ea;
+  padding: 4px;
+
+}
+
+.main_content a{
+  color:#4ad3e1;
+}
+
+.footer a{
+  color:#4ad3e1;
+}

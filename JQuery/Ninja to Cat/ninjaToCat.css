@@ -1,0 +1,12 @@
+body{
+   text-align: -webkit-center;
+}
+header{
+   background-color: silver;
+}
+img{
+   display:block;
+   height: 105px;
+    margin-bottom: 10px;
+    width: 370px;
+}

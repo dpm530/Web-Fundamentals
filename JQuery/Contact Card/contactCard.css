@@ -1,0 +1,16 @@
+form{
+   display:inline-block;
+}
+.contactCards{
+   width:300px;
+   height:250px;
+   display: inline-block;
+   float:right;
+}
+.contactCards div{
+   border: 1px solid black;
+   text-align: center;
+}
+#back{
+   display:none;
+}

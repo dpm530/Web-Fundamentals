@@ -1,0 +1,19 @@
+body{
+   text-align: center;
+}
+header{
+   text-align: center;
+   background-color: silver;
+   width:1000;
+}
+#left{
+   display:inline-block;
+   width:700px;
+}
+#right{
+   display:inline-block;
+   width:280px;
+   height:420px;
+   border:8px solid red;
+   vertical-align: top;
+}

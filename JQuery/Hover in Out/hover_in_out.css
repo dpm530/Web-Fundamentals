@@ -1,0 +1,19 @@
+body{
+   text-align: center;
+}
+header{
+   text-align: center;
+   background-color: silver;
+}
+div{
+   display: inline-block;
+   margin-top: 30px;
+}
+img{
+   width:270px;
+   height:160px;
+}
+.alternateImage{
+   height: 160px;
+   width:270px;
+}

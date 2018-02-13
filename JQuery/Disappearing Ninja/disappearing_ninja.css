@@ -1,0 +1,23 @@
+body{
+   text-align: center;
+}
+header{
+   background-color: #222c38;
+   color:white;
+}
+div{
+   display:inline-block;
+   width:1500px;
+   margin-top: 15px;
+}
+img{
+   
+}
+button{
+   width:100px;
+   height: 50px;
+   margin-top: 25px;
+   font-size: 15px;
+   background-color: silver;
+   border: 1px solid black;
+}

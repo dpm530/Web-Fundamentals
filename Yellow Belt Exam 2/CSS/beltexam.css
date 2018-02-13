@@ -1,0 +1,140 @@
+body{
+
+}
+.wrapper{
+   text-align: center;
+   width:1000px;
+}
+header{
+   margin-bottom: 22px;
+}
+a{
+   text-decoration: none;
+}
+header label{
+   margin-left: 103px;
+}
+#img{
+   width: 49px;
+   display: inline-block;
+   height: 48px;
+}
+.navbar1{
+   display:inline-block;
+   vertical-align: top;
+   background-color:#e2e2e2;
+   height: 50px;
+   width: 945px;
+   border-radius: 11px
+}
+.navbar1 ul{
+   display:inline-block;
+   margin-left:
+}
+.navbar1 li{
+   display:inline;
+}
+.navbar1 a{
+   color: black;
+   margin-right: 20px;
+   font-size: 21px;
+   padding-right: 41px;
+}
+.content1 img{
+   width:1000px;
+}
+.content1 ul li{
+   display:inline;
+}
+.content1 a{
+   color:#8ec5d3;
+   margin-right: 25px;
+}
+.navbar2{
+   text-align: left;
+   background-color: #464845;
+   display:inline-block;
+   font-size: 20px;
+   margin-right: 20px;
+   width: 1002px;
+   margin-left: 0px;
+   margin-top: -4px;
+}
+.content2{
+   border:1px solid silver;
+   padding:5px;
+   margin-top: 22px;
+}
+.content2 p{
+   display:inline-block;
+   color:#dadada;
+   font-size: 32px;
+}
+.content2 button{
+   background-color: #4d87ad;
+   color:white;
+   margin-left: 130px;
+   width: 325px;
+   height: 45px;
+   border-radius: 8px;
+   font-size: 20px;
+}
+.content3{
+   display:flex;
+   background-color: #f2f2f2;
+   width: 1000px;
+   height: 293px;
+   padding-bottom: 30px;
+   border-bottom:1px solid silver;
+   border-left: 1px solid silver;
+   border-right: 1px solid silver;
+}
+.box{
+   display:inline-block;
+   text-align: -webkit-center;
+   border:1px solid silver;
+}
+.box a{
+   color:white;
+}
+.img2{
+   width:132px;
+   height: 100px;
+}
+.box h4{
+   display:inline-block;
+}
+.box button{
+   display:block;
+   background-color: #5eade8;
+   width: 180px;
+   height: 33px;
+}
+.content4 .footerbox{
+   display:inline-block;
+   text-align: -webkit-center;
+   vertical-align: top;
+   width:161px;
+}
+.footerbox{
+   text-align: center;
+}
+.footerbox h3{
+   border-bottom: 1px solid silver;
+}
+.footer{
+   border-top: 1px solid silver;
+   text-align: left;
+   margin-left: 25px;
+}
+.footer p{
+   display:inline-block;
+   text-align: center;
+}
+.footerbox a{
+   color:#a5a1a2;
+}
+#footer{
+   border-right: 1px solid silver;
+   border-left: 2px solid silver;
+}

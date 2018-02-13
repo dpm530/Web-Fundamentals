@@ -1,0 +1,52 @@
+body{
+   /*text-align: center;*/
+}
+header{
+   display:inline-block;
+   width:1000px;
+   border: 1px solid black;
+}
+header img{
+   width:155px;
+}
+header h1{
+   display:inline-block;
+}
+#left{
+   display:inline-block;
+   text-align: center;
+   border: 1px solid black;
+   width: 250px;
+   vertical-align: top;
+}
+.lefttop{
+   text-align: center;
+   color:black;
+   width:250px;
+}
+.leftbottom img{
+   width:140px;
+}
+#left button{
+   display:block;
+}
+.leftbottom{
+   background-image: url("/Users/Daniel/Documents/Coding Dojo/Web Development/CSS/Internet/images 2/ad_background.png");
+   text-align: center;
+   color:white;
+   width:250px;
+}
+#right{
+   display:inline-block;
+   border:1px solid black;
+   width:720px;
+}
+.righttop img{
+   width:30px;
+}
+.righttop h4,div{
+   display:inline-block;
+}
+.righttop img,h4,div{
+   vertical-align: top;
+}
